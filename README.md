@@ -20,11 +20,11 @@ git init
 git add .
 git commit -m "Initial commit — The Hangover 4.0"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/the-hangover-4.0.git
+git remote add origin https://github.com/kevin-nem/the-hangover-4.0.git
 git push -u origin main
 ```
 
-Create a new repository named **the-hangover-4.0** on [GitHub](https://github.com/new) first, then run the commands above (replace `YOUR_USERNAME` with your GitHub username).
+Create a new repository named **the-hangover-4.0** on [GitHub](https://github.com/new) first, then run the commands above.
 
 ### 2. Import the project on Vercel
 
